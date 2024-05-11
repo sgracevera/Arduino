@@ -1,17 +1,4 @@
-//  _ ___ _______     ___ ___ ___  ___ _   _ ___ _____ ___ 
-// / |_  )__ /   \   / __|_ _| _ \/ __| | | |_ _|_   _/ __| 
-// | |/ / |_ \ |) | | (__ | ||   / (__| |_| || |  | | \__ \ 
-// |_/___|___/___/   \___|___|_|_\\___|\___/|___| |_| |___/ 
-// 
-// Conditions Arduino
-// 
-// Made by Tania Molina
-// License: MIT
-// Downloaded from: https://circuits.io/circuits/3704783-conditions-arduino
 
-/*by Tania Molina
-CONDITIONS
-*/
 
 #define button1 9
 #define button2 8
